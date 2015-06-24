@@ -20,6 +20,3 @@ else
 
 $request = new Request($url);
 $request->execute();
-
-
-//our-team/about/freddier
