@@ -59,13 +59,12 @@ if($rsproy=mysql_fetch_array($sentenciaspy,$mibase)){
 <div class="banner_qs">
   <div class="text-center container">
     <div class="d_bannerqs hidden-xs hidden-sm hidden-md hidden-lg">
-      
-    <figure>
-      <img src="imagenes/qs/banner_qs.jpg" alt="not1">
-    </figure>
+        <figure>
+			<img src="imagenes/qs/banner_qs.jpg" alt="not1">
+        </figure>
+  	</div>
   </div>
-</div>
-<div class="detalle">
+  <div class="detalle">
   	<div class="container">
             <div class="uno col-xs-12 col-md-8 col-sm-8">
               <figure class="foto">
@@ -88,7 +87,7 @@ if($rsproy=mysql_fetch_array($sentenciaspy,$mibase)){
             </div>
   	</div>
 </div>
-  <!-- fin del slider -->
+</div>
 
 
 
@@ -103,6 +102,10 @@ if($rsproy=mysql_fetch_array($sentenciaspy,$mibase)){
       <img src="imagenes/index/direccion.jpg" alt="not2">
     </figure>
 </div>
+
+
+
+
 
 <footer class="row p_pagina text-center col-xs-12">
   <div class=" container">
